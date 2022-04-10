@@ -1,6 +1,7 @@
 namespace csharp_crud_sql_server
 {
     internal static class Program
+
     {
         /// <summary>
         ///  The main entry point for the application.
